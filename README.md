@@ -1,8 +1,8 @@
-# edmond-buck-portfoliogi
+# edmond-buck-portfolio 
 
 github url :https://github.com/Eddiebuck88
 
-webpage domain name :
+webpage domain name :https://eddiebuck88.github.io/edmond-buck-portfolio/
 
 A working and responsive portfolio page
 
