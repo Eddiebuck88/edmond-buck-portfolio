@@ -8,7 +8,7 @@
     --border: 0.3rem solid #690608;
     --padding: 2rem;
     --heading-padding: 0.2rem 0.6rem;
-    --prime-text-color: #043664;
+    --prime-text-color:black;
 }
 
 body {
@@ -35,7 +35,7 @@ h1, h2, h3 {
 }
 
 h3 {
-    font-size: 2rem;
+    font-size: 2.5rem;
     color: var(--prime-text-color);
 }
 
@@ -59,7 +59,10 @@ a:hover,
 a:active {
     color: #690608;
 }
-
+#about-me{
+    display: flex;
+    flex-direction: column;
+}
 .main-section_article-1 {
     background-color: #1c98c4;
     padding: 2.5rem;
@@ -78,12 +81,13 @@ a:active {
 
 p {
     line-height: 1.7;
+    font-size: 1.5rem;
 }
-
 
 .main-section_article-3 {
     display: flex;
-    /* padding: var(--padding); */
+    flex-direction: column;
+    padding: var(--padding); 
 }
 
 .main-section_article-3--cards {
