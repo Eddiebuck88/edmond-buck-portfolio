@@ -1,5 +1,4 @@
-# edmond-buck-portfolio
-a work portfolio for nick
+# edmond-buck-portfoliogi
 
 github url :https://github.com/Eddiebuck88
 
